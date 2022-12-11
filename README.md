@@ -1,4 +1,4 @@
-# PS2-System-Sounds
+# PS2 System Sounds
 This SFX pack replaces the Steam Deck's UI SFX with those from the PlayStation 2 BIOS.
 All sounds were created with samples extracted from the PS2 BIOS itself, with some combined with the original SteamOS sounds.
 The sound volume was tuned to both match SteamOS' sound volume and to not blow your ears out.
